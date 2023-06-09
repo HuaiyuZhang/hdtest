@@ -1,8 +1,7 @@
 # hdtest
-Reproducible code for high dimensional two sample test (Zhang and Wang, 2020).
+Reproducible code for our high-dimensional two-sample test ([Zhang and Wang, 2021](https://www.sciencedirect.com/science/article/abs/pii/S0167947321001523)).
 
-These codes are used to reproduce all the tables and figures in the paper (Zhang and Wang, 2020).
-The implementation of the new test is available through CRAN R package [highDmean](https://cran.r-project.org/web/packages/highDmean/).
+The implementation of the new test is available via the CRAN R package [highDmean](https://cran.r-project.org/web/packages/highDmean/).
 
 # code structure
 
